@@ -1,0 +1,45 @@
+{
+  "@@locale": "en",
+  "appTitle": "Deliswift",
+  "hello_world": "Hello World!",
+  "@hello_world": {
+    "description": "A welcome message"
+  },
+  "welcome": "Welcome to {appName}",
+  "@welcome": {
+    "description": "Welcome message with app name parameter",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "format": "string"
+      }
+    }
+  },
+  "error_general": "An error occurred. Please try again.",
+  "@error_general": {
+    "description": "General error message"
+  },
+  "error_network": "Network error. Please check your connection.",
+  "@error_network": {
+    "description": "Network error message"
+  },
+  "error_server": "Server error. Please try again later.",
+  "@error_server": {
+    "description": "Server error message"
+  },
+  "common_ok": "OK",
+  "common_cancel": "Cancel",
+  "common_yes": "Yes",
+  "common_no": "No",
+  "common_save": "Save",
+  "common_delete": "Delete",
+  "common_edit": "Edit",
+  "auth_login": "Login",
+  "auth_logout": "Logout",
+  "auth_email": "Email",
+  "auth_password": "Password",
+  "auth_forgotPassword": "Forgot Password?",
+  "auth_signUp": "Sign Up",
+  "auth_dontHaveAccount": "Don't have an account? ",
+  "auth_alreadyHaveAccount": "Already have an account? "
+}

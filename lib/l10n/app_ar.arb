@@ -1,0 +1,45 @@
+{
+  "@@locale": "ar",
+  "appTitle": "دلي سويقت",
+  "hello_world": "مرحباً بالعالم!",
+  "@hello_world": {
+    "description": "رسالة ترحيب"
+  },
+  "welcome": "مرحباً بك في {appName}",
+  "@welcome": {
+    "description": "رسالة ترحيب مع اسم التطبيق",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "format": "string"
+      }
+    }
+  },
+  "error_general": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+  "@error_general": {
+    "description": "رسالة خطأ عامة"
+  },
+  "error_network": "خطأ في الاتصال. يرجى التحقق من اتصالك بالإنترنت.",
+  "@error_network": {
+    "description": "رسالة خطأ في الشبكة"
+  },
+  "error_server": "خطأ في الخادم. يرجى المحاولة لاحقاً.",
+  "@error_server": {
+    "description": "رسالة خطأ في الخادم"
+  },
+  "common_ok": "موافق",
+  "common_cancel": "إلغاء",
+  "common_yes": "نعم",
+  "common_no": "لا",
+  "common_save": "حفظ",
+  "common_delete": "حذف",
+  "common_edit": "تعديل",
+  "auth_login": "تسجيل الدخول",
+  "auth_logout": "تسجيل الخروج",
+  "auth_email": "البريد الإلكتروني",
+  "auth_password": "كلمة المرور",
+  "auth_forgotPassword": "نسيت كلمة المرور؟",
+  "auth_signUp": "إنشاء حساب",
+  "auth_dontHaveAccount": "ليس لديك حساب؟ ",
+  "auth_alreadyHaveAccount": "لديك حساب بالفعل؟ "
+}
